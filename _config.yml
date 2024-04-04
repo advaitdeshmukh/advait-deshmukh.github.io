@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Advait Deshmukh"
   avatar           : "https://i.imgur.com/QDKOf0L.jpeg"
-  bio              : "Software Engineer, Societe Generale Global Solution Center"
-  location         : "Bangalore, India"
-  employer         :
+  bio              : "Graduate Student"
+  location         : "Boulder, CO, USA"
+  employer         : "University of Colorado, Boulder"
   pubmed           :
   googlescholar    : 
-  email            :
+  email            : "advait.deshmukh@colorado.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "advait-deshmukh"
   orcid            : 
   pinterest        :
   soundcloud       :
