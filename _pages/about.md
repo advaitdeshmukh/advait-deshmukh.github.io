@@ -19,7 +19,7 @@ In addition to my professional and academic pursuits, I am passionate about read
 ## Education
 
 - **M.S. in Computer Science**  
-  CU Boulder, 2023 - 2025
+  CU Boulder, 2023 - 2025  
   Boulder, Colorado, USA
   
 - **B.E. in Computer Science**  
