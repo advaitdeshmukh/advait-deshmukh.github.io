@@ -12,7 +12,7 @@ Hello! I'm Advait Deshmukh, a Master's student in Computer Science at the Univer
 
 Previously, I worked as a Software Engineer in the Innovation Team at Societe Generale Global Solution Center in Bangalore, where I contributed to the development of cutting-edge technological solutions, including a Retrieval-Augmented Generation (RAG) based chat system.I completed my undergraduate degree in Computer Science from BITS Pilani, where I gained a strong foundation in computer science and AI. 
 
-My academic journey has been complemented by research experience at the BAIC Lab, University of Colorado Boulder, where I'm collaborating on a project to enhance vision capabilities in large language models, contributing to the advancement of multimodal AI research.
+I'm currently conducting research at the [BLAST Lab](https://blast-cu.github.io/) at University of Colorado Boulder, where I'm collaborating on a project on long tail entity typing with [Dr. Maria Pacheco](https://blast-cu.github.io/mlpacheco/). I have previously been involved in research at [BAIC Lab](https://baic.center/) led by [Dr. Tom Yeh](https://www.colorado.edu/cs/tom-yeh) where I attempted to enhance vision capabilities in large language models, contributing to the advancement of multimodal AI research.
 
 In addition to my professional and academic pursuits, I am passionate about reading books, playing chess, and painting, which provide me with a creative outlet and a way to unwind. If you're interested in connecting or discussing potential collaborations, please feel free to reach out to me at advait.deshmukh@colorado.edu
 
